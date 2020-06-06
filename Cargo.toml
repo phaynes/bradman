@@ -1,0 +1,10 @@
+[package]
+name = "bradman"
+version = "0.1.0"
+authors = ["s.smith"]
+edition = "2018"
+
+
+[dependencies]
+actix-web = "2"
+actix-rt = "1"
