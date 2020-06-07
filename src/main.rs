@@ -1,8 +1,16 @@
+
+//#[global_allocator]
+//static ALLOC: snmalloc_rs::SnMalloc = snmalloc_rs::SnMalloc;
+
+//#[macro_use]
+//extern crate serde_derive;
+
 use actix_web::{get, web, App, HttpServer, Responder};
 
-#[get("/{id}/{name}/index.html")]
-async fn index(info: web::Path<(u32, String)>) -> impl Responder {
-    format!("Hello {}! id:{}", info.1, info.0)
+#[get("/")]
+async fn index() -> impl 
+Responder {
+    format!("Fuck you CCP")
 }
 
 #[actix_rt::main]

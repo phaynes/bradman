@@ -1,0 +1,11 @@
+/Users/philiphaynes/devel/rust/bradman/target/debug/deps/libasync_trait-27b3870d4505fade.dylib: /Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/lib.rs /Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/args.rs /Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/expand.rs /Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/lifetime.rs /Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/parse.rs /Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/receiver.rs /Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/respan.rs
+
+/Users/philiphaynes/devel/rust/bradman/target/debug/deps/async_trait-27b3870d4505fade.d: /Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/lib.rs /Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/args.rs /Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/expand.rs /Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/lifetime.rs /Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/parse.rs /Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/receiver.rs /Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/respan.rs
+
+/Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/lib.rs:
+/Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/args.rs:
+/Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/expand.rs:
+/Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/lifetime.rs:
+/Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/parse.rs:
+/Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/receiver.rs:
+/Users/philiphaynes/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.33/src/respan.rs:
