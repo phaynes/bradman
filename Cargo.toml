@@ -4,7 +4,24 @@ version = "0.1.0"
 authors = ["s.smith"]
 edition = "2018"
 
+[[bin]]
+name = "bradman"
+path = "src/main.rs"
 
 [dependencies]
 actix-web = "2"
 actix-rt = "1"
+actix-files = "0.2"
+
+log = "0.4.0"
+env_logger = "0.7"
+#snmalloc-rs = "0.2"
+
+[build-dependencies]
+askama = "0.8"
+bindgen = "0.42"
+
+[profile.release]
+lto = true
+opt-level = 3
+codegen-units = 1

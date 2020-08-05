@@ -1,0 +1,18 @@
+Started http server: 127.0.0.1:8080
+[0m[38;5;8m[[0m2020-06-08T13:51:31Z [0m[32mINFO [0m actix_server::builder[0m[38;5;8m][0m Starting 2 workers
+[0m[38;5;8m[[0m2020-06-08T13:51:31Z [0m[32mINFO [0m actix_server::builder[0m[38;5;8m][0m Starting "actix-web-service-0.0.0.0:8080" service on 0.0.0.0:8080
+[0m[38;5;8m[[0m2020-06-08T13:52:02Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45206 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15
+[0m[38;5;8m[[0m2020-06-08T13:52:02Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45206 "GET /static/ HTTP/1.1" 404 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" 0.000081
+[0m[38;5;8m[[0m2020-06-08T13:52:03Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45210 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15
+[0m[38;5;8m[[0m2020-06-08T13:52:03Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45210 "GET /favicon.ico HTTP/1.1" 404 0 "http://localhost:8080/static/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" 0.000047
+[0m[38;5;8m[[0m2020-06-08T13:52:20Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45214 curl/7.64.1
+[0m[38;5;8m[[0m2020-06-08T13:52:20Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45214 "GET /static/ HTTP/1.1" 404 0 "-" "curl/7.64.1" 0.000077
+[0m[38;5;8m[[0m2020-06-08T13:52:34Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45218 curl/7.64.1
+[0m[38;5;8m[[0m2020-06-08T13:52:34Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45218 "GET / HTTP/1.1" 200 12 "-" "curl/7.64.1" 0.000093
+[0m[38;5;8m[[0m2020-06-08T13:52:39Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45222 curl/7.64.1
+[0m[38;5;8m[[0m2020-06-08T13:52:39Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45222 "GET /static HTTP/1.1" 404 0 "-" "curl/7.64.1" 0.000049
+[0m[38;5;8m[[0m2020-06-08T13:52:47Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45226 curl/7.64.1
+[0m[38;5;8m[[0m2020-06-08T13:52:47Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45226 "GET /static/out.log HTTP/1.1" 404 0 "-" "curl/7.64.1" 0.000070
+[0m[38;5;8m[[0m2020-06-08T13:53:05Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45230 curl/7.64.1
+[0m[38;5;8m[[0m2020-06-08T13:53:05Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45230 "GET /static/out.log HTTP/1.1" 404 0 "-" "curl/7.64.1" 0.000039
+^C[0m[38;5;8m[[0m2020-06-08T13:53:10Z [0m[32mINFO [0m actix_server::builder[0m[38;5;8m][0m SIGINT received, exiting

@@ -1,0 +1,5 @@
+Started http server: 127.0.0.1:8080
+[0m[38;5;8m[[0m2020-06-08T09:19:52Z [0m[32mINFO [0m actix_server::builder[0m[38;5;8m][0m Starting 2 workers
+[0m[38;5;8m[[0m2020-06-08T09:19:52Z [0m[32mINFO [0m actix_server::builder[0m[38;5;8m][0m Starting "actix-web-service-0.0.0.0:8080" service on 0.0.0.0:8080
+[0m[38;5;8m[[0m2020-06-08T09:25:00Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45168 curl/7.64.1
+[0m[38;5;8m[[0m2020-06-08T09:25:00Z [0m[32mINFO [0m actix_web::middleware::logger[0m[38;5;8m][0m 172.17.0.1:45168 "GET / HTTP/1.1" 200 12 "-" "curl/7.64.1" 0.000077
