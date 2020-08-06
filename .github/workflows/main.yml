@@ -24,8 +24,4 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run a one-line script
-      run: ls -lash
-
-    # Runs a set of commands using the runners shell
-    - name: Run a multi-line script
-      run: ls -lash ../
+      run: docker build -t bradman .
